@@ -12,16 +12,16 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 [![GitHub](https://img.shields.io/badge/GitHub-Spatial457-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/Spatial457)<br/>
 Xingrui Wang, Wufei Ma, Tiezheng Zhang, Celso M de Melo, Jieneng Chen, and Alan Yuille. *CVPR 2025 (highlight).*
 
-**SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**
+**SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**<br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07755-b31b1b.svg)](https://arxiv.org/abs/2412.07755)
 [![webpage](https://img.shields.io/badge/webpage-9cf)](https://arijitray.com/SAT/)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SAT-FFD21E?logo=huggingface)](https://huggingface.co/datasets/array/SAT)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SAT-FFD21E?logo=huggingface)](https://huggingface.co/datasets/array/SAT)<br/>
 - Arijit Ray, Jiafei Duan, Ellis Brown, Reuben Tan, Dina Bashkirova, Rose Hendrix, Kiana Ehsani, Aniruddha Kembhavi, Bryan A. Plummer, Ranjay Krishna, Kuo-Hao Zeng, and Kate Saenko. *Preprint.
 
-**3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark**
+**3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark**<br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07825-b31b1b.svg)](https://arxiv.org/abs/2412.07825)
 [![webpage](https://img.shields.io/badge/webpage-9cf)](https://3dsrbench.github.io)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)<br/>
 - Wufei Ma, Haoyu Chen, Guofeng Zhang, Celso M de Melo, Alan Yuille, and Jieneng Chen. *Preprint.*
 
 https://img.shields.io/badge/GitHub-SpatialReasoner-000?logo=github&logoColor=fff
