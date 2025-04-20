@@ -29,3 +29,8 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-OpenSpatialDataset-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialRGPT--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench)
 > [![GitHub](https://img.shields.io/badge/GitHub-SpatialRGPT-000?logo=github&logoColor=fff)](https://github.com/AnjieCheng/SpatialRGPT)
+
+> **Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering**<br/>
+> ICLR 2025<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622)
+> [![GitHub](https://img.shields.io/badge/GitHub-DynSuperCLEVR-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/DynSuperCLEVR)
