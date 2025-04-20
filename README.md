@@ -6,6 +6,19 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 
 ## Papers
 
+> **From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2503.22976-b31b1b.svg)](https://arxiv.org/abs/2503.22976)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://fudan-zvg.github.io/spar/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SPAR--7M-FFD21E?logo=huggingface)](https://huggingface.co/datasets/jasonzhango/SPAR-7M)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SPAR--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/jasonzhango/SPAR-Bench)
+> [![GitHub](https://img.shields.io/badge/GitHub-spar-000?logo=github&logoColor=fff)](https://github.com/fudan-zvg/spar)
+
+> **SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2502.13143-b31b1b.svg)](https://arxiv.org/abs/2502.13143)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://qizekun.github.io/sofar/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-sofar-FFD21E?logo=huggingface)](https://huggingface.co/collections/qizekun/sofar-67b511129d3146d28cea9920)
+> [![GitHub](https://img.shields.io/badge/GitHub-SoFar-000?logo=github&logoColor=fff)](https://github.com/qizekun/SoFar)
+
 > **PulseCheck457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models**<br/>
 > CVPR 2025 ⭐️ highlight<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2502.08636-b31b1b.svg)](https://arxiv.org/abs/2502.08636)
