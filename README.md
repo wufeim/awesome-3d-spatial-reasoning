@@ -6,6 +6,12 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 
 ## Papers
 
+> **Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2504.01805-b31b1b.svg)](https://arxiv.org/abs/2504.01805)
+
+> **Improved Visual-Spatial Reasoning via R1-Zero-Like Training**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2504.00883-b31b1b.svg)](https://arxiv.org/abs/2504.00883)
+
 > **From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D**<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2503.22976-b31b1b.svg)](https://arxiv.org/abs/2503.22976)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://fudan-zvg.github.io/spar/)
