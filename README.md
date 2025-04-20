@@ -12,20 +12,20 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Spatial457-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RyanWW/Spatial457)
 > [![GitHub](https://img.shields.io/badge/GitHub-Spatial457-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/Spatial457)
 
-**SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**<br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2412.07755-b31b1b.svg)](https://arxiv.org/abs/2412.07755)
-[![webpage](https://img.shields.io/badge/webpage-9cf)](https://arijitray.com/SAT/)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SAT-FFD21E?logo=huggingface)](https://huggingface.co/datasets/array/SAT)
+> **SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2412.07755-b31b1b.svg)](https://arxiv.org/abs/2412.07755)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://arijitray.com/SAT/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SAT-FFD21E?logo=huggingface)](https://huggingface.co/datasets/array/SAT)
 
-**3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark**<br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2412.07825-b31b1b.svg)](https://arxiv.org/abs/2412.07825)
-[![webpage](https://img.shields.io/badge/webpage-9cf)](https://3dsrbench.github.io)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)
+> **3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2412.07825-b31b1b.svg)](https://arxiv.org/abs/2412.07825)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://3dsrbench.github.io)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)
 
-**SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**<br/>
-NeurIPS 2024<br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2406.01584-b31b1b.svg)](https://arxiv.org/abs/2406.01584)
-[![webpage](https://img.shields.io/badge/webpage-9cf)](https://www.anjiecheng.me/SpatialRGPT)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-OpenSpatialDataset-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialRGPT--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench)
-[![GitHub](https://img.shields.io/badge/GitHub-SpatialRGPT-000?logo=github&logoColor=fff)](https://github.com/AnjieCheng/SpatialRGPT)
+> **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**<br/>
+> NeurIPS 2024<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2406.01584-b31b1b.svg)](https://arxiv.org/abs/2406.01584)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://www.anjiecheng.me/SpatialRGPT)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-OpenSpatialDataset-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialRGPT--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench)
+> [![GitHub](https://img.shields.io/badge/GitHub-SpatialRGPT-000?logo=github&logoColor=fff)](https://github.com/AnjieCheng/SpatialRGPT)
