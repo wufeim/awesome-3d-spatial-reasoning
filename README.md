@@ -47,3 +47,8 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > ICLR 2025<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622)
 > [![GitHub](https://img.shields.io/badge/GitHub-DynSuperCLEVR-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/DynSuperCLEVR)
+
+> **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**<br/>
+> CVPR 2025<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2401.12168-b31b1b.svg)](https://arxiv.org/abs/2401.12168)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://spatial-vlm.github.io)
