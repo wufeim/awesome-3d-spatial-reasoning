@@ -6,11 +6,11 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 
 ## Papers
 
-**PulseCheck457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models**<br/>
-CVPR 2025 ⭐️ highlight<br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2502.08636-b31b1b.svg)](https://arxiv.org/abs/2502.08636)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Spatial457-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RyanWW/Spatial457)
-[![GitHub](https://img.shields.io/badge/GitHub-Spatial457-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/Spatial457)
+> **PulseCheck457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models**<br/>
+> CVPR 2025 ⭐️ highlight<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2502.08636-b31b1b.svg)](https://arxiv.org/abs/2502.08636)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Spatial457-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RyanWW/Spatial457)
+> [![GitHub](https://img.shields.io/badge/GitHub-Spatial457-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/Spatial457)
 
 **SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**<br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07755-b31b1b.svg)](https://arxiv.org/abs/2412.07755)
