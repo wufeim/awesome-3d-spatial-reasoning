@@ -27,5 +27,5 @@ NeurIPS 2024<br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2406.01584-b31b1b.svg)](https://arxiv.org/abs/2406.01584)
 [![webpage](https://img.shields.io/badge/webpage-9cf)](https://www.anjiecheng.me/SpatialRGPT)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-OpenSpatialDataset-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialRGPT-Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialRGPT--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench)
 [![GitHub](https://img.shields.io/badge/GitHub-SpatialRGPT-000?logo=github&logoColor=fff)](https://github.com/AnjieCheng/SpatialRGPT)
