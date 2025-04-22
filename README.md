@@ -53,6 +53,12 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-PhysBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/USC-GVL/PhysBench)
 > [![GitHub](https://img.shields.io/badge/GitHub-PhysBench-000?logo=github&logoColor=fff)](https://github.com/USC-GVL/PhysBench)
 
+> **Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2412.14171-b31b1b.svg)](https://arxiv.org/abs/2412.14171)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://vision-x-nyu.github.io/thinking-in-space.github.io/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-VSI--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/nyu-visionx/VSI-Bench)
+> [![GitHub](https://img.shields.io/badge/GitHub-thinking--in--space-000?logo=github&logoColor=fff)](https://github.com/vision-x-nyu/thinking-in-space)
+
 > **SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2412.07755-b31b1b.svg)](https://arxiv.org/abs/2412.07755)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://arijitray.com/SAT/)
