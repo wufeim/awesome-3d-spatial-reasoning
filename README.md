@@ -69,6 +69,15 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://3dsrbench.github.io)
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)
 
+> **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**<br/>
+> NeurIPS 2024 ⭐ Oral<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2406.16860-b31b1b.svg)](https://arxiv.org/abs/2406.16860)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://cambrian-mllm.github.io)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-cambrian--data-FFD21E?logo=huggingface)](https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-cambrian--1--models-FFD21E?logo=huggingface)](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-CV--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/nyu-visionx/CV-Bench)
+> [![GitHub](https://img.shields.io/badge/GitHub-cambrian-000?logo=github&logoColor=fff)](https://github.com/cambrian-mllm/cambrian)
+
 > **ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**<br/>
 > NeurIPS 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.09613-b31b1b.svg)](https://arxiv.org/abs/2406.09613)
