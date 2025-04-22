@@ -6,6 +6,12 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 
 ## Papers
 
+> **Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2504.15280-b31b1b.svg)](https://arxiv.org/abs/2504.15280)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://danielchyeh.github.io/All-Angles-Bench/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-All--Angles--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ch-chenyu/All-Angles-Bench)
+> [![GitHub](https://img.shields.io/badge/GitHub-All--Angles--Bench-000?logo=github&logoColor=fff)](https://github.com/Chenyu-Wang567/All-Angles-Bench)
+
 > **Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D**<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2504.14151-b31b1b.svg)](https://arxiv.org/abs/2504.14151)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://ai.meta.com/research/publications/locate-3d-real-world-object-localization-via-self-supervised-learning-in-3d/)
