@@ -79,6 +79,13 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622)
 > [![GitHub](https://img.shields.io/badge/GitHub-DynSuperCLEVR-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/DynSuperCLEVR)
 
+> **BLINK: Multimodal Large Language Models Can See but Not Perceive**<br/>
+> ECCV 2024<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2404.12390-b31b1b.svg)](https://arxiv.org/abs/2404.12390)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://zeyofu.github.io/blink/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-BLINK-FFD21E?logo=huggingface)](https://huggingface.co/datasets/BLINK-Benchmark/BLINK)
+> [![GitHub](https://img.shields.io/badge/GitHub-BLINK_Benchmark-000?logo=github&logoColor=fff)](https://github.com/zeyofu/BLINK_Benchmark)
+
 > **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**<br/>
 > CVPR 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2401.12168-b31b1b.svg)](https://arxiv.org/abs/2401.12168)
