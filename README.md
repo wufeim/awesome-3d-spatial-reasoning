@@ -6,6 +6,12 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 
 ## Papers
 
+> **Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2504.14151-b31b1b.svg)](https://arxiv.org/abs/2504.14151)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://ai.meta.com/research/publications/locate-3d-real-world-object-localization-via-self-supervised-learning-in-3d/)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-locate--3d-FFD21E?logo=huggingface)](https://huggingface.co/facebook/locate-3d)
+> [![GitHub](https://img.shields.io/badge/GitHub-locate--3d-000?logo=github&logoColor=fff)](https://github.com/facebookresearch/locate-3d)
+
 > **Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2504.01805-b31b1b.svg)](https://arxiv.org/abs/2504.01805)
 
@@ -45,6 +51,14 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://3dsrbench.github.io)
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)
 
+> **ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**<br/>
+> NeurIPS 2024<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2406.09613-b31b1b.svg)](https://arxiv.org/abs/2406.09613)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://imagenet3d.github.io)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-ImageNet3D-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/ImageNet3D)
+> [![GitHub](https://img.shields.io/badge/GitHub-imagenet3d-000?logo=github&logoColor=fff)](https://github.com/wufeim/imagenet3d)
+> [![GitHub](https://img.shields.io/badge/GitHub-imagenet3d_exp-000?logo=github&logoColor=fff)](https://github.com/wufeim/imagenet3d_exp)
+
 > **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**<br/>
 > NeurIPS 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.01584-b31b1b.svg)](https://arxiv.org/abs/2406.01584)
@@ -59,6 +73,6 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![GitHub](https://img.shields.io/badge/GitHub-DynSuperCLEVR-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/DynSuperCLEVR)
 
 > **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**<br/>
-> CVPR 2025<br/>
+> CVPR 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2401.12168-b31b1b.svg)](https://arxiv.org/abs/2401.12168)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://spatial-vlm.github.io)
