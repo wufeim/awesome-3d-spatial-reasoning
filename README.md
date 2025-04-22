@@ -85,5 +85,12 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://spatial-vlm.github.io)
 
 > **Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**<br/>
+> CVPR 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2401.00988-b31b1b.svg)](https://arxiv.org/abs/2401.00988)
 > [![GitHub](https://img.shields.io/badge/GitHub-NuInstruct-000?logo=github&logoColor=fff)](https://github.com/xmed-lab/NuInstruct)
+
+> **3D-Aware Visual Question Answering about Parts, Poses and Occlusions**<br/>
+> NeurIPS 2023<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2310.17914-b31b1b.svg)](https://arxiv.org/abs/2310.17914)
+> [![GitHub](https://img.shields.io/badge/GitHub-3D--Aware--VQA-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/3D-Aware-VQA)
+> [![GitHub](https://img.shields.io/badge/GitHub-superclevr--3D--question-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/superclevr-3D-question)
