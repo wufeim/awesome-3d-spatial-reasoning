@@ -25,6 +25,11 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SPAR--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/jasonzhango/SPAR-Bench)
 > [![GitHub](https://img.shields.io/badge/GitHub-spar-000?logo=github&logoColor=fff)](https://github.com/fudan-zvg/spar)
 
+> **Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2503.19707-b31b1b.svg)](https://arxiv.org/abs/2503.19707)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-srbench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/stogiannidis/srbench)
+> [![GitHub](https://img.shields.io/badge/GitHub-srbench-000?logo=github&logoColor=fff)](https://github.com/stogiannidis/srbench)
+
 > **Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2503.11094-b31b1b.svg)](https://www.arxiv.org/abs/2503.11094)
 > [![GitHub](https://img.shields.io/badge/GitHub-Open3DVQA-000?logo=github&logoColor=fff)](https://github.com/WeichenZh/Open3DVQA)
