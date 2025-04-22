@@ -78,6 +78,15 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-CV--Bench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/nyu-visionx/CV-Bench)
 > [![GitHub](https://img.shields.io/badge/GitHub-cambrian-000?logo=github&logoColor=fff)](https://github.com/cambrian-mllm/cambrian)
 
+> **SpatialBot: Precise Spatial Understanding with Vision Language Models**<br/>
+> ICRA 2025<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2406.13642-b31b1b.svg)](https://arxiv.org/abs/2406.13642)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialQA-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RussRobin/SpatialQA)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialQA--E-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RussRobin/SpatialQA-E)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RussRobin/SpatialBench)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-SpatialBot--3B-FFD21E?logo=huggingface)](https://huggingface.co/RussRobin/SpatialBot-3B)
+> [![GitHub](https://img.shields.io/badge/GitHub-SpatialBot-000?logo=github&logoColor=fff)](https://github.com/BAAI-DCAI/SpatialBot)
+
 > **ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**<br/>
 > NeurIPS 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.09613-b31b1b.svg)](https://arxiv.org/abs/2406.09613)
