@@ -41,6 +41,13 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Spatial457-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RyanWW/Spatial457)
 > [![GitHub](https://img.shields.io/badge/GitHub-Spatial457-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/Spatial457)
 
+> **PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**<br/>
+> ICLR 2025<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2501.16411-b31b1b.svg)](https://arxiv.org/abs/2501.16411)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://physbench.github.io)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-PhysBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/USC-GVL/PhysBench)
+> [![GitHub](https://img.shields.io/badge/GitHub-PhysBench-000?logo=github&logoColor=fff)](https://github.com/USC-GVL/PhysBench)
+
 > **SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models**<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2412.07755-b31b1b.svg)](https://arxiv.org/abs/2412.07755)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://arijitray.com/SAT/)
@@ -76,3 +83,7 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > CVPR 2024<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2401.12168-b31b1b.svg)](https://arxiv.org/abs/2401.12168)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://spatial-vlm.github.io)
+
+> **Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2401.00988-b31b1b.svg)](https://arxiv.org/abs/2401.00988)
+> [![GitHub](https://img.shields.io/badge/GitHub-NuInstruct-000?logo=github&logoColor=fff)](https://github.com/xmed-lab/NuInstruct)
