@@ -41,7 +41,7 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![GitHub](https://img.shields.io/badge/GitHub-SoFar-000?logo=github&logoColor=fff)](https://github.com/qizekun/SoFar)
 
 > **PulseCheck457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models**<br/>
-> CVPR 2025 ⭐️ highlight<br/>
+> CVPR 2025 ⭐️ Highlight<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2502.08636-b31b1b.svg)](https://arxiv.org/abs/2502.08636)
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Spatial457-FFD21E?logo=huggingface)](https://huggingface.co/datasets/RyanWW/Spatial457)
 > [![GitHub](https://img.shields.io/badge/GitHub-Spatial457-000?logo=github&logoColor=fff)](https://github.com/XingruiWang/Spatial457)
@@ -77,7 +77,7 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![GitHub](https://img.shields.io/badge/GitHub-Video--3D--LLM-000?logo=github&logoColor=fff)](https://github.com/LaVi-Lab/Video-3D-LLM)
 
 > **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**<br/>
-> NeurIPS 2024 ⭐ Oral<br/>
+> NeurIPS 2024 ⭐️ Oral<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.16860-b31b1b.svg)](https://arxiv.org/abs/2406.16860)
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://cambrian-mllm.github.io)
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-cambrian--data-FFD21E?logo=huggingface)](https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11)
