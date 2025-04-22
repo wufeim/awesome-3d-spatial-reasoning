@@ -69,6 +69,13 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![webpage](https://img.shields.io/badge/webpage-9cf)](https://3dsrbench.github.io)
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-3DSRBench-FFD21E?logo=huggingface)](https://huggingface.co/datasets/ccvl/3DSRBench)
 
+> **Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding**<br/>
+> CVPR 2025<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2412.00493-b31b1b.svg)](https://arxiv.org/abs/2412.00493)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Video--3D--LLM_data-FFD21E?logo=huggingface)](https://huggingface.co/datasets/zd11024/Video-3D-LLM_data)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Video3D--LLM--LLaVA--Qwen--Uniform--32-FFD21E?logo=huggingface)](https://huggingface.co/zd11024/Video3D-LLM-LLaVA-Qwen-Uniform-32)
+> [![GitHub](https://img.shields.io/badge/GitHub-Video--3D--LLM-000?logo=github&logoColor=fff)](https://github.com/LaVi-Lab/Video-3D-LLM)
+
 > **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**<br/>
 > NeurIPS 2024 ⭐ Oral<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.16860-b31b1b.svg)](https://arxiv.org/abs/2406.16860)
