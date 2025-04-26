@@ -82,6 +82,13 @@ A curated list of datasets, papers, and codebases on 3D spatial reasoning.
 > [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Video3D--LLM--LLaVA--Qwen--Uniform--32-FFD21E?logo=huggingface)](https://huggingface.co/zd11024/Video3D-LLM-LLaVA-Qwen-Uniform-32)
 > [![GitHub](https://img.shields.io/badge/GitHub-Video--3D--LLM-000?logo=github&logoColor=fff)](https://github.com/LaVi-Lab/Video-3D-LLM)
 
+> **Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**<br/>
+> ICLR 2025 ⭐️ Oral<br/>
+> [![arXiv](https://img.shields.io/badge/arXiv-2410.17385-b31b1b.svg)](https://arxiv.org/abs/2410.17385)
+> [![webpage](https://img.shields.io/badge/webpage-9cf)](https://spatial-comfort.github.io)
+> [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-COMFORT-FFD21E?logo=huggingface)](https://huggingface.co/datasets/sled-umich/COMFORT)
+> [![GitHub](https://img.shields.io/badge/GitHub-COMFORT-000?logo=github&logoColor=fff)](https://github.com/sled-group/COMFORT)
+
 > **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**<br/>
 > NeurIPS 2024 ⭐️ Oral<br/>
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.16860-b31b1b.svg)](https://arxiv.org/abs/2406.16860)
